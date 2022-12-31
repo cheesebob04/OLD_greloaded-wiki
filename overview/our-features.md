@@ -40,4 +40,7 @@ You can choose your class accordingly to races in touhou!
 
 ## Custom Crops
 
-There are 10 custom crops as of im writing this&#x20;
+There are 10 custom crops as well as watering system and crops getting effected by seasons!
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Crops, Sprinklers and scarecrows!</p></figcaption></figure>
+

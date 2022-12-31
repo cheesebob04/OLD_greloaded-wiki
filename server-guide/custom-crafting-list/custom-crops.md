@@ -4,7 +4,7 @@ description: Craftings for usuable stuff in Custom Crops plugin!
 
 # Custom Crops
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Crop pot</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Crop pot</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/javaw_P227pcRfyc.jpg" alt=""><figcaption><p>Copper watering can</p></figcaption></figure>
 
