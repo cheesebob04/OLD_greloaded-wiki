@@ -2,4 +2,4 @@
 
 ## Important Items
 
-<figure><img src="../../.gitbook/assets/javaw_9Shv23do3F.jpg" alt=""><figcaption><p>Backpack</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/javaw_9Shv23do3F.jpg" alt=""><figcaption><p>Backpack (Currently buggy)</p></figcaption></figure>
