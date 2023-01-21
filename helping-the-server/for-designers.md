@@ -12,9 +12,9 @@ There are also pages in Notion to keep track of weapons or creatures in [here](h
 
 ### Recommended Blockbench Plugins:
 
-* **Brush Color Randomizer:** If you are doing your textures in blockbench this will help with giving materials a variation.
+* **Brush Color Randomizer:** If you are doing your textures in blockbench this will help with giving materials a variation and depth.
 * **Optimize:** This will help with clearing the unused block faces for better performance to players.
-* **Brush Plus:** This will ade custom bursh feature as well as cutomization to brushes.
+* **Brush Plus:** This will add custom bursh feature as well as cutomization to brushes.
 
 ## Roles
 
