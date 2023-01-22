@@ -26,7 +26,7 @@ So make sure you choose the right class.
 
 After picking you class and spending your skill points and such... You can now safely explore the gensokyo and it's wonders! and do not worry you are safe from players, pvp is off by default for everyone. You can type `/pvp` to toggle on/off your pvp.\
 \
-As for getting stronger, you can get basic vanilla armors as well as with [Arcane Table](custom-crafting-list/#important-items) you can craft custom weapons and&#x20;
+As for getting stronger, you can get basic vanilla armors as well as with [Arcane Table](custom-crafting-list/#important-items) you can craft custom weapons and custom armors!
 
 ### Step 2.1 - Protecting your base/builds
 
