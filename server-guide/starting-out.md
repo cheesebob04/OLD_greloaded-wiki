@@ -8,4 +8,17 @@ Type `/class` to see the classes and pick it to your liking.
 After you picked your class there are still points to spend on different stuff.\
 You have skills type `/skill` to see which skills you can open it when you get your lvl high enough.
 
-And last of all theres `/attributes` which are **permanent** buffs so choose wisely.
+And last of all there is `/attributes` which are side buffs.\
+\
+Everyone gets:
+
+```yaml
+1 Class Point
+3 Skill Points
+1 Skill Reallocation Point
+3 Attribute Points
+1 Attribute Reallocation Point
+```
+
+So make sure you choose the right class.
+
