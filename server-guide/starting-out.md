@@ -34,11 +34,12 @@ You can protect your base/builds with `/claim` command this will enable 3D Claim
 \
 But TLDR for most of the commands are:
 
-<pre><code><strong>/gd = Opens up Inventory GUI for control
-</strong><strong>/claim = Claim mode
-</strong>/abandon = Abandon the claim thet you are IN
+```
+/gd = Opens up Inventory GUI for control
+/claim = Claim mode
+/abandon = Abandon the claim thet you are IN
 /abandonall = ABANDONS ALL OF YOUR CLAIMS
-/gd mode &#x3C;basic/subdivide/town> = Switches the claim modes between given options
-/gd trust player &#x3C;Player_Name> = Adds the player to your claims
-</code></pre>
+/gd mode <basic/subdivide/town> = Switches the claim modes between given options
+/gd trust player <Player_Name> = Adds the player to your claims
+```
 
