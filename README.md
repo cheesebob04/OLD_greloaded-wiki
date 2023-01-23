@@ -1,8 +1,8 @@
 ---
-description: Welcome to Gensokyo Reloaded Wiki!
+description: Welcome to Gensokyo Reimagined Wiki!
 ---
 
-# 👋 Gensokyo Reloaded
+# 👋 Gensokyo Reimagined
 
 ## Overview
 
