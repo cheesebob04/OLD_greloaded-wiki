@@ -17,6 +17,6 @@ This wiki should provide everything you need to know about the server!
 
 {% hint style="info" %}
 Discord: [https://discord.gg/U9fZSJJcte](https://discord.gg/U9fZSJJcte)\
-Twitter: [https://twitter.com/greloadedsmp](https://twitter.com/greloadedsmp)\
-Patreon: [https://www.patreon.com/gensokyoreloaded](https://www.patreon.com/gensokyoreloaded)
+Twitter: [https://twitter.com/greimaginedsmp](https://twitter.com/greimaginedsmp)\
+Patreon: [https://www.patreon.com/gensokyoreimagined](https://www.patreon.com/gensokyoreimagined)
 {% endhint %}
