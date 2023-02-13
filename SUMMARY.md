@@ -11,10 +11,6 @@
 ## Server Guide
 
 * [📪 Starting out](server-guide/starting-out.md)
-* [📎 Custom Crafting List](server-guide/custom-crafting-list/README.md)
-  * [Common Materials](server-guide/custom-crafting-list/common-materials.md)
-  * [Custom Foods](server-guide/custom-crafting-list/custom-foods.md)
-  * [Custom Crops](server-guide/custom-crafting-list/custom-crops.md)
 
 ## Helping the server&#x20;
 
