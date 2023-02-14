@@ -11,7 +11,7 @@ This wiki should provide everything you need to know about the server!
 ## Server info
 
 **Version: 1.19.x and 1.20 in the future**\
-**Ip: TBA**
+**Ip: `play.gensokyoreimagined.net`**
 
 ## Social Media
 
