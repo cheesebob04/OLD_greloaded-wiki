@@ -29,11 +29,13 @@ _'Upgrading' to a sub-class will consume one class point._
 
 ## Skills
 
-Skills are different for each class! For most classes, you will only be able to access skills at a certain level later on. Run `/skills` to see if you have any available skills. Players who don't have available skills at the start, check back at level 10!&#x20;
+Skills are special moves that you can do. You can cast them using Mana, a regenerating resource that will vary in speed and capacity depending on your class. Run `/skills` to see if you have any available skills.&#x20;
 
-Skills are special moves that you can do. You can cast them using Mana, a regenerating resource that will vary in speed and capacity depending on your class.&#x20;
+Skills are abilities that the player can use, and can actively (or passively!) change the tides in battle. Each use will cost <mark style="color:blue;">Mana</mark>, a regenerating resource that will vary in capacity and speed depending on your chosen class. To get skills, you must either have picked a static class (e.g. Satori and Oni), or have progressed to a sub-class (e.g. Youkai Magician, Wolf Tengu).
 
-_thats all i know i havent got a class with skills yet lmao_
+As previously mentioned, skills can be active or passive. Active skills require you to, well, activate them. Pressing 'F' will have you enter casting mode. It won't obstruct your combat, but will bring up a selection of your active skills in your actionbar, which will tell you what number key you press to activate each skill. Do note that casting will remain until you press 'F' again, so you may mistakenly use skills when switching to items. Using the scroll wheel will also cast spells; it can be used to easily activate skills that are one to the left or right of your active hotbar slot.
+
+Lastly, each skill has a cooldown between usages. Skills can prove immensely useful, but can have fairly long cooldowns, so make each use count! Leveling up your <mark style="color:blue;">intelligence</mark> can help make your skills more effective!
 
 
 
