@@ -61,4 +61,4 @@ The most notable quest is the daily quest. You can complete it every day to earn
 
 To start a quest, simply left click any of quests.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>The daily quest: do some chores! Chop some wood, stab some zombies. Get to it!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/daily_quest.png" alt=""><figcaption><p>The daily quest: do some chores! Chop some wood, stab some zombies. Get to it!</p></figcaption></figure>

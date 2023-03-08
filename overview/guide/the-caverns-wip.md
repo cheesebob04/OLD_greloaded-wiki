@@ -28,6 +28,8 @@ Resources of interest: Variety of wood, berries, lush cave materials, shroom blo
 
 It has trees. Oh and there's a nice river too! The forest's main feature is that it's landscape is packed to the brim with wood! The roof is also covered in materials you'd find in a lush cave, so grab some of those if you need too. There are a couple sub-regions of the forest, like your usual spruce and dark oak, and some more unique ones like mushroom forest. This is a great place to grind your woodcutting stats, but do note that mobs will be spawning everywhere; there is almost no natural light on the cavern floor, so maybe you'll be fighting more than deforesting.&#x20;
 
+<figure><img src="../../.gitbook/assets/cave_forest.png" alt=""><figcaption><p>what a nice forest i hope mobs will not attack me at any given moment</p></figcaption></figure>
+
 ### 'Nether'
 
 Resources of interest: Magma block, lava, decoratives (blackstone, basalt, etc)
@@ -35,6 +37,8 @@ Resources of interest: Magma block, lava, decoratives (blackstone, basalt, etc)
 Not quite the Nether, I call this biome the 'Nether' (so creative!). This biome is a more mountainous and spacious nether-like region. It's quite the sight, there's hilly terrain, lava pools, ashen trees (which are really just acacia), and more! Currently, netherite is unobtainable, even through mining in this region. You may want to visit here if you want lava, especially if you're creating steel. Additionally, there are some nice blocks like blackstone if you're into decorating.&#x20;
 
 ### Frozen/Permafrost (WIP)
+
+Resources of interest: Ice. Just ice.
 
 
 
