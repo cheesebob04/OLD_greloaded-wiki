@@ -12,7 +12,7 @@ The caves are accessed by tunneling below about **-y50**, at that point you shou
 
 ## Mining
 
-The caverns provide you will a resource that every player cherishes: **diamonds**! If you haven't noticed, no ores are generated in the map, rather, as you mine, you will find '[hidden veins](#user-content-fn-1)[^1]' of ore that will show themselves randomly as you tunnel. Diamonds are _only_ found in the caves; you don't need to be in the caverns, just within the cave region.&#x20;
+The caverns provide you will a resource that every player desires: **diamonds**! If you haven't noticed, no ores are generated in the map, rather, you will find '[hidden veins](#user-content-fn-1)[^1]' of ore that will show themselves randomly as you tunnel. Diamonds are _only_ found in the caves; you don't need to be in the caverns, just within the cave region.&#x20;
 
 _insert gif of finding cool resources in a hidden vein_
 
